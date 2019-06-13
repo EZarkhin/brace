@@ -16470,7 +16470,12 @@ text-align: right;\
 pointer-events: auto;\
 }\
 .ace_text-layer {\
-font: inherit !important;\
+font-family: 'Helvetica-Light', 'Helvetica Light', 'Helvetica';\
+font-weight: 200;\
+font-style: normal;\
+font-size: 14px;\
+color: #707070;\
+text-align: left;\
 }\
 .ace_cjk {\
 display: inline-block;\

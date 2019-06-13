@@ -6,6 +6,7 @@ exports.cssText = "\
 .ace-github .ace_gutter {\
 background: #e8e8e8;\
 color: #AAA;\
+width: 15px;\
 }\
 .ace-github  {\
 background: #fff;\
